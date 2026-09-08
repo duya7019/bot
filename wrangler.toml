@@ -1,0 +1,5 @@
+name = "bot-vless-proxy"
+main = "worker.js"
+compatibility_date = "2026-09-09"
+compatibility_flags = ["allow_custom_ports"]
+workers_dev = true
